@@ -1,6 +1,6 @@
 # Nikitas Rafael Nikitas
 
-Senior Data Scientist based in Greece, working across predictive modelling, experimentation and production ML. My experience spans banking, fintech and travel technology.
+Senior Data Scientist based in Greece, working with predictive modelling, statistical reasoning and production machine learning.
 
 **[Explore my portfolio](https://rafaelnikitas.github.io)** · [Kaggle](https://www.kaggle.com/rafanikitas)
 
